@@ -1,5 +1,4 @@
 code=input("Code: ")
-code="58NNH1NH"
 nn={"N":"N", "C":"C", "H":"H"}
 
 def crack(a, b, c):
